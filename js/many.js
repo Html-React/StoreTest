@@ -61,8 +61,3 @@ btnNextcheckbox.addEventListener('click', function (e) {
     btnNextcheckbox.classList.add('form_checkbox-hidden');
   });
 });
-
-
-// console.log('yes');
-
-// sidebar__title-img
