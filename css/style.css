@@ -419,7 +419,7 @@ p, h2 {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	background: url(img/ToggleOFF.svg) 0 0 no-repeat;
+	background: url(../img/ToggleOFF.svg) 0 0 no-repeat;
 }
 
 .toggle__text:before {
@@ -432,7 +432,7 @@ p, h2 {
 
 
 .form__services input[type=checkbox]:checked + label:before {
-	background: url(img/ToggleON.svg) 0 0 no-repeat;
+	background: url(../img/ToggleON.svg) 0 0 no-repeat;
 
 }
 
